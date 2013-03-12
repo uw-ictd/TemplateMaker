@@ -19,6 +19,6 @@ Created by:
 Libraries used:
 ----------------------------------
 * JQuery
-* JSTree
+* ACE
 * Jcrop
 * JSONLint
